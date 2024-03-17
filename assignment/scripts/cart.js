@@ -19,7 +19,6 @@ console.log(addItem('case')); // adds case to basket, returns true in console
 console.log(addItem('basketCase')); // adds another item, returns true in console
 console.log(addItem('bananas')); // adds another item, returns true in console
 console.log(basket); // expect a case, basketcase, bananas from basket array.
-
 // - Create a function called `listItems`. It should:
 //   - loop over the items in the `basket` array
 //   - console.log each individual item on a new line
